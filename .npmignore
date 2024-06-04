@@ -1,0 +1,13 @@
+.DS_Store
+.idea
+*.local
+*.log
+.vscode
+node_modules/
+src/
+.husky/
+.npmignore
+.gitignore
+pnpm-lock.yaml
+tsconfig.json
+esbuild.config.mjs
