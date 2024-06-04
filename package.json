@@ -23,8 +23,8 @@
     "build": "rm -rf dist && node esbuild.config.mjs",
     "prepare": "husky"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Sunil",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.14.1",
     "esbuild": "^0.21.4",
