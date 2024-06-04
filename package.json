@@ -1,0 +1,39 @@
+{
+  "name": "vite-plugin-lock",
+  "private": true,
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "homepage": "https://github.com/sunil-sharma-999/vite-plugin-lock",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunil-sharma-999/vite-plugin-lock.git"
+  },
+  "keywords": [
+    "dev-server",
+    "build-tool",
+    "vite",
+    "js",
+    "ts",
+    "typescript",
+    "javascript"
+  ],
+  "scripts": {
+    "build": "rm -rf dist && node esbuild.config.mjs",
+    "prepare": "husky"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.1",
+    "esbuild": "^0.21.4",
+    "esbuild-plugin-d.ts": "1.2.3",
+    "husky": "^9.0.11",
+    "typescript": "^5.4.5",
+    "vite": "^5.2.12"
+  },
+  "peerDependencies": {
+    "vite": "^5.2.12"
+  }
+}
