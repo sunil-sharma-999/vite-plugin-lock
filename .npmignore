@@ -11,3 +11,4 @@ src/
 pnpm-lock.yaml
 tsconfig.json
 esbuild.config.mjs
+LICENCE
