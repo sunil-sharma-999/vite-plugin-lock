@@ -8,4 +8,4 @@
 
 ## License
 
-[MIT](LICENSE).
+[MIT](https://github.com/sunil-sharma-999/vite-plugin-lock/blob/main/LICENCE)
